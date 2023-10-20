@@ -1,5 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
 ==============================================================================================================================
+<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
+
 
 Web developer
 -------------
@@ -7,7 +9,7 @@ Web developer
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [My Portfolio](http://https://ibruslan.github.io/MyPortfolio/)
 *   ✉️  You can contact me at [ribragimov2003@gmail.com](mailto:ribragimov2003@gmail.com)
-*   🧠  I'm learning node js### Skills 
+*   🧠  I'm learning node js### Skills
 ### Skills
 
 <p align="left">
@@ -31,7 +33,5 @@ Web developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/IbRuslan/CardHub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbRuslan&repo=CardHub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IbRuslan/ListMaster" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbRuslan&repo=ListMaster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/IbRuslan/LitePizza" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbRuslan&repo=LitePizza&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IbRuslan/social-network" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbRuslan&repo=social-network&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
