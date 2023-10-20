@@ -9,6 +9,8 @@ Web developer
 *   🖥️  See my portfolio at [My Portfolio](http://https://ibruslan.github.io/MyPortfolio/)
 *   ✉️  You can contact me at [ribragimov2003@gmail.com](mailto:ribragimov2003@gmail.com)
 *   🧠  I'm learning node js
+  <br>
+
 ### Skills
 
 <p align="left">
